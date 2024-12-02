@@ -8,5 +8,6 @@ public class q5 {
         int y=Math.abs(n); // for absolute value
         int ans=y%10;
         System.out.println("last digit is : " + ans);
+        hi dev
     }
 }
